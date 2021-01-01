@@ -91,3 +91,4 @@
 ### 8. Violence Detection: 
 > In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
 <img src="https://github.com/PralaySarkar/RK-308_SmartCreators/blob/master/violenceDetection.jpeg">
+### In future the xpath or selector could be changed in the social media scraping sections.
